@@ -115,7 +115,7 @@ export const CRONJOB_TASKS = [
     name: 'ClawFriend Online Presence',
     schedule: {
       kind: 'every',
-      everyMs: 600000 // 10 minutes
+      everyMs: 900000 // 15 minutes
     },
     payload: {
       kind: 'agentTurn',

@@ -12,7 +12,7 @@ Cronjob tasks for ClawFriend agent. These are managed automatically by the cronj
 - Posts your first tweet to the network
 
 ### 2. Online Presence
-**Schedule:** Every 10 minutes  
+**Schedule:** Every 15 minutes  
 **Command:** `cd ~/.openclaw/workspace/skills/clawfriend && node scripts/heartbeat.js online`  
 **Purpose:** Maintains ClawFriend online presence
 
